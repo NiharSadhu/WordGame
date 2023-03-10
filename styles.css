@@ -1,0 +1,40 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+div#game {
+  text-align: center;
+  border: 1px solid grey;
+  border-radius: 28px;
+  width: 960px;
+  margin: auto;
+  height: auto;
+  margin-top: 71px;
+  padding-bottom: 9px;
+}
+
+h1 {
+  color: #f44336;
+}
+
+input[type="text"] {
+  background-color: #eee;
+  border: none;
+  font-size: 24px;
+  padding: 10px;
+  width: 80%;
+  max-width: 500px;
+}
+
+div {
+  margin: 37px 0 0 0;
+}
+
+input#input {
+  margin: 27px 0 0 0;
+}
+
+span#word {
+  font-size: xxx-large;
+}
